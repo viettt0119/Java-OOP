@@ -1,6 +1,7 @@
 import java.util.*;
 /* Đề bài : Nhập vào các số nguyên và tính tổng các số đó  nếu tổng > 100 thì kết thúc vòng lặp 
 và hiển thị thông báo tổng các số đã nhập 
+hint: do while 
  */
 public class demo4 {
     public static void main(String[] args){
