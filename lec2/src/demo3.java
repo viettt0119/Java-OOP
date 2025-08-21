@@ -29,7 +29,7 @@ public class demo3 {
             System.out.print("Thu Bay");
                 break;
             default:
-                System.out.println("Khong hop le");
+            System.out.println("Khong hop le");
         }
         sc.close();
     }
