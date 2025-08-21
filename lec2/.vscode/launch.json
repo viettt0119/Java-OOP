@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "demo5",
+            "request": "launch",
+            "mainClass": "demo5",
+            "projectName": "lec2_e3049cbc"
+        },
+        {
+            "type": "java",
             "name": "demo4",
             "request": "launch",
             "mainClass": "demo4",
