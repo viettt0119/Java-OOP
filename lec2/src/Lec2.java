@@ -28,4 +28,6 @@ public class Lec2 {
 //- Cấu trúc điều khiển tuần tự: Các câu lệnh được thực hiện theo thứ tự từ trên xuống dưới.
 //- Cấu trúc điều khiển tuyển chọn : Điều kiện rẽ nhánh if else , switch case
 //- Cấu trúc điều khiển lặp : while , do while , for
-
+/*
+ * in dữ liệu ra màn hình 
+ */
